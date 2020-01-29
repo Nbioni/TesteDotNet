@@ -1,0 +1,11 @@
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\bin\Debug\netcoreapp3.0\TesteDotNet.Dominio.deps.json
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\bin\Debug\netcoreapp3.0\TesteDotNet.Dominio.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\bin\Debug\netcoreapp3.0\TesteDotNet.Dominio.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\obj\Debug\netcoreapp3.0\TesteDotNet.Dominio.csprojAssemblyReference.cache
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\obj\Debug\netcoreapp3.0\TesteDotNet.Dominio.AssemblyInfoInputs.cache
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\obj\Debug\netcoreapp3.0\TesteDotNet.Dominio.AssemblyInfo.cs
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\obj\Debug\netcoreapp3.0\TesteDotNet.Dominio.csproj.CopyComplete
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\obj\Debug\netcoreapp3.0\TesteDotNet.Dominio.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Dominio\obj\Debug\netcoreapp3.0\TesteDotNet.Dominio.pdb

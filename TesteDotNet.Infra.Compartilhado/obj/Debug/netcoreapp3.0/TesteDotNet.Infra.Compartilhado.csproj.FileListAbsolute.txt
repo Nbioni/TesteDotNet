@@ -1,0 +1,8 @@
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.deps.json
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.AssemblyInfoInputs.cache
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.AssemblyInfo.cs
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.Compartilhado\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.csprojAssemblyReference.cache

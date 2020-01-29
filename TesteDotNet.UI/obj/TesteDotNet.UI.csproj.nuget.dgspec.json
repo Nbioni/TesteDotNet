@@ -1,0 +1,487 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.UI\\TesteDotNet.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj",
+        "projectName": "TesteDotNet.Aplicacao",
+        "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\NahalielBioni\\.nuget\\packages\\",
+        "outputPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NahalielBioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj"
+              },
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\TesteDotNet.Infra.Compartilhado.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\TesteDotNet.Infra.Compartilhado.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj",
+        "projectName": "TesteDotNet.Dominio",
+        "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj",
+        "packagesPath": "C:\\Users\\NahalielBioni\\.nuget\\packages\\",
+        "outputPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NahalielBioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\TesteDotNet.Infra.Compartilhado.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\TesteDotNet.Infra.Compartilhado.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\TesteDotNet.Infra.Compartilhado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\TesteDotNet.Infra.Compartilhado.csproj",
+        "projectName": "TesteDotNet.Infra.Compartilhado",
+        "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\TesteDotNet.Infra.Compartilhado.csproj",
+        "packagesPath": "C:\\Users\\NahalielBioni\\.nuget\\packages\\",
+        "outputPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Compartilhado\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NahalielBioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Data\\TesteDotNet.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Data\\TesteDotNet.Infra.Data.csproj",
+        "projectName": "TesteDotNet.Infra.Data",
+        "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Data\\TesteDotNet.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\NahalielBioni\\.nuget\\packages\\",
+        "outputPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NahalielBioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\TesteDotNet.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\TesteDotNet.Infra.IoC.csproj",
+        "projectName": "TesteDotNet.Infra.IoC",
+        "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\TesteDotNet.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\NahalielBioni\\.nuget\\packages\\",
+        "outputPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NahalielBioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj"
+              },
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj"
+              },
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Data\\TesteDotNet.Infra.Data.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.Data\\TesteDotNet.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj",
+        "projectName": "TesteDotNet.Servico",
+        "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj",
+        "packagesPath": "C:\\Users\\NahalielBioni\\.nuget\\packages\\",
+        "outputPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Servico\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NahalielBioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj"
+              },
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\TesteDotNet.Infra.IoC.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\TesteDotNet.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.UI\\TesteDotNet.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.UI\\TesteDotNet.UI.csproj",
+        "projectName": "TesteDotNet.UI",
+        "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.UI\\TesteDotNet.UI.csproj",
+        "packagesPath": "C:\\Users\\NahalielBioni\\.nuget\\packages\\",
+        "outputPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NahalielBioni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Aplicacao\\TesteDotNet.Aplicacao.csproj"
+              },
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Dominio\\TesteDotNet.Dominio.csproj"
+              },
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\TesteDotNet.Infra.IoC.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Infra.IoC\\TesteDotNet.Infra.IoC.csproj"
+              },
+              "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj": {
+                "projectPath": "C:\\Naha\\Projetos\\TesteDotNet\\TesteDotNet.Servico\\TesteDotNet.Servico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

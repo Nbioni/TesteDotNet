@@ -1,0 +1,13 @@
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\bin\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.deps.json
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\bin\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\bin\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\bin\Debug\netcoreapp3.0\TesteDotNet.Dominio.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\bin\Debug\netcoreapp3.0\TesteDotNet.Dominio.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\obj\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.csprojAssemblyReference.cache
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\obj\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.AssemblyInfoInputs.cache
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\obj\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.AssemblyInfo.cs
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\obj\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.csproj.CopyComplete
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\obj\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Aplicacao\obj\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.pdb

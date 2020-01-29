@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteDotNet.Aplicacao\TesteDotNet.Aplicacao.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Dominio\TesteDotNet.Dominio.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Infra.IoC\TesteDotNet.Infra.IoC.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Servico\TesteDotNet.Servico.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+</Project>

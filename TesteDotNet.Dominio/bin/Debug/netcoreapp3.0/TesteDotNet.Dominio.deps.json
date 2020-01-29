@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TesteDotNet.Dominio/1.0.0": {
+        "dependencies": {
+          "TesteDotNet.Infra.Compartilhado": "1.0.0"
+        },
+        "runtime": {
+          "TesteDotNet.Dominio.dll": {}
+        }
+      },
+      "TesteDotNet.Infra.Compartilhado/1.0.0": {
+        "runtime": {
+          "TesteDotNet.Infra.Compartilhado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteDotNet.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteDotNet.Infra.Compartilhado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

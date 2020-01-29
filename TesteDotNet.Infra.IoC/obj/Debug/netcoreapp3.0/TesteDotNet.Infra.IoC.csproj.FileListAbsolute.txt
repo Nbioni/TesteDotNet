@@ -1,0 +1,17 @@
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.deps.json
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Dominio.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Data.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Aplicacao.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Dominio.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Data.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\bin\Debug\netcoreapp3.0\TesteDotNet.Infra.Compartilhado.pdb
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.csprojAssemblyReference.cache
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.AssemblyInfoInputs.cache
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.AssemblyInfo.cs
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.csproj.CopyComplete
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.dll
+C:\Naha\Projetos\TesteDotNet\TesteDotNet.Infra.IoC\obj\Debug\netcoreapp3.0\TesteDotNet.Infra.IoC.pdb

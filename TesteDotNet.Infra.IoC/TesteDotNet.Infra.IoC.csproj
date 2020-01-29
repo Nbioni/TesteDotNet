@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteDotNet.Aplicacao\TesteDotNet.Aplicacao.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Dominio\TesteDotNet.Dominio.csproj" />
+    <ProjectReference Include="..\TesteDotNet.Infra.Data\TesteDotNet.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

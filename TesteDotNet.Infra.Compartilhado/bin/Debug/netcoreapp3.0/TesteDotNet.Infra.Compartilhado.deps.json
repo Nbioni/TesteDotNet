@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TesteDotNet.Infra.Compartilhado/1.0.0": {
+        "runtime": {
+          "TesteDotNet.Infra.Compartilhado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteDotNet.Infra.Compartilhado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
